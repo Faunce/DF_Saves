@@ -1,0 +1,219 @@
+Summary
+-------
+
+Measuring unpaused time only
+
+elapsed  2645611 ms (44m 5s)
+ dfhack   170732 ms (  6.45% of elapsed)
+
+
+DFHack details
+--------------
+
+keybinding        0 ms (  0.00% of dfhack,   0.00% of elapsed)
+    update    35023 ms ( 20.51% of dfhack,   1.32% of elapsed)
+   overlay   135412 ms ( 79.31% of dfhack,   5.12% of elapsed)
+   zscreen      297 ms (  0.17% of dfhack,   0.01% of elapsed)
+
+
+Update details
+--------------
+
+  event manager    14548 ms ( 41.54% of update,   0.55% of elapsed)
+plugin onUpdate    11183 ms ( 31.93% of update,   0.42% of elapsed)
+     lua timers     8057 ms ( 23.00% of update,   0.30% of elapsed)
+
+
+Event manager per event type
+----------------------------
+
+            JOB_COMPLETED     6274 ms ( 43.13% of event manager,   0.24% of elapsed)
+              JOB_STARTED     4421 ms ( 30.39% of event manager,   0.17% of elapsed)
+               UNIT_DEATH     3117 ms ( 21.43% of event manager,   0.12% of elapsed)
+            JOB_INITIATED      187 ms (  1.29% of event manager,   0.01% of elapsed)
+                 BUILDING      187 ms (  1.29% of event manager,   0.01% of elapsed)
+          UNIT_NEW_ACTIVE      112 ms (  0.77% of event manager,   0.00% of elapsed)
+
+                framework      250 ms (  1.72% of event manager,   0.01% of elapsed)
+            all subtimers    14298 ms ( 98.28% of event manager,   0.54% of elapsed)
+
+
+Event manager UNIT_NEW_ACTIVE event per plugin
+----------------------------------------------
+
+
+                framework      112 ms (100.00% of event type,   0.00% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager JOB_COMPLETED event per plugin
+--------------------------------------------
+
+
+                framework     6274 ms (100.00% of event type,   0.24% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager BUILDING event per plugin
+---------------------------------------
+
+
+                framework      187 ms (100.00% of event type,   0.01% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager JOB_INITIATED event per plugin
+--------------------------------------------
+
+
+                framework      187 ms (100.00% of event type,   0.01% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager UNIT_DEATH event per plugin
+-----------------------------------------
+
+
+                framework     3117 ms (100.00% of event type,   0.12% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager JOB_STARTED event per plugin
+------------------------------------------
+
+                   burrow       47 ms (  1.06% of event type,   0.00% of elapsed)
+
+                framework     4374 ms ( 98.94% of event type,   0.17% of elapsed)
+            all subtimers       47 ms (  1.06% of event type,   0.00% of elapsed)
+
+
+Update per plugin
+-----------------
+
+                  overlay     7937 ms ( 70.97% of update,   0.30% of elapsed)
+             buildingplan      422 ms (  3.77% of update,   0.02% of elapsed)
+           preserve-rooms      299 ms (  2.67% of update,   0.01% of elapsed)
+                logistics      199 ms (  1.78% of update,   0.01% of elapsed)
+              autobutcher      123 ms (  1.10% of update,   0.00% of elapsed)
+                  3dveins      123 ms (  1.10% of update,   0.00% of elapsed)
+           suspendmanager      110 ms (  0.98% of update,   0.00% of elapsed)
+           preserve-tombs      105 ms (  0.94% of update,   0.00% of elapsed)
+                tiletypes       64 ms (  0.57% of update,   0.00% of elapsed)
+              autonestbox       61 ms (  0.55% of update,   0.00% of elapsed)
+     RemoteFortressReader       48 ms (  0.43% of update,   0.00% of elapsed)
+               createitem       48 ms (  0.43% of update,   0.00% of elapsed)
+               stonesense       48 ms (  0.43% of update,   0.00% of elapsed)
+                seedwatch       47 ms (  0.42% of update,   0.00% of elapsed)
+              changelayer       47 ms (  0.42% of update,   0.00% of elapsed)
+                   tailor       47 ms (  0.42% of update,   0.00% of elapsed)
+             autoclothing       47 ms (  0.42% of update,   0.00% of elapsed)
+               timestream       46 ms (  0.41% of update,   0.00% of elapsed)
+                    flows       32 ms (  0.29% of update,   0.00% of elapsed)
+                    probe       32 ms (  0.29% of update,   0.00% of elapsed)
+                  dig-now       32 ms (  0.29% of update,   0.00% of elapsed)
+                autolabor       32 ms (  0.29% of update,   0.00% of elapsed)
+                 autofarm       32 ms (  0.29% of update,   0.00% of elapsed)
+                   reveal       32 ms (  0.29% of update,   0.00% of elapsed)
+                getplants       32 ms (  0.29% of update,   0.00% of elapsed)
+                 autochop       31 ms (  0.28% of update,   0.00% of elapsed)
+                  hotkeys       31 ms (  0.28% of update,   0.00% of elapsed)
+               xlsxreader       31 ms (  0.28% of update,   0.00% of elapsed)
+            fix-occupancy       31 ms (  0.28% of update,   0.00% of elapsed)
+                 autoslab       30 ms (  0.27% of update,   0.00% of elapsed)
+                blueprint       30 ms (  0.27% of update,   0.00% of elapsed)
+                   orders       30 ms (  0.27% of update,   0.00% of elapsed)
+                 work-now       16 ms (  0.14% of update,   0.00% of elapsed)
+               changevein       16 ms (  0.14% of update,   0.00% of elapsed)
+                    debug       16 ms (  0.14% of update,   0.00% of elapsed)
+                     zone       16 ms (  0.14% of update,   0.00% of elapsed)
+   army-controller-sanity       16 ms (  0.14% of update,   0.00% of elapsed)
+               forceequip       16 ms (  0.14% of update,   0.00% of elapsed)
+              filltraffic       16 ms (  0.14% of update,   0.00% of elapsed)
+                nestboxes       16 ms (  0.14% of update,   0.00% of elapsed)
+             pet-uncapper       16 ms (  0.14% of update,   0.00% of elapsed)
+                 tubefill       16 ms (  0.14% of update,   0.00% of elapsed)
+                     lair       16 ms (  0.14% of update,   0.00% of elapsed)
+                fastdwarf       16 ms (  0.14% of update,   0.00% of elapsed)
+                 spectate       16 ms (  0.14% of update,   0.00% of elapsed)
+               prospector       15 ms (  0.13% of update,   0.00% of elapsed)
+              add-spatter       15 ms (  0.13% of update,   0.00% of elapsed)
+                luasocket       15 ms (  0.13% of update,   0.00% of elapsed)
+               changeitem       15 ms (  0.13% of update,   0.00% of elapsed)
+               cleanconst       15 ms (  0.13% of update,   0.00% of elapsed)
+                   design       15 ms (  0.13% of update,   0.00% of elapsed)
+                   burrow       15 ms (  0.13% of update,   0.00% of elapsed)
+
+                framework      611 ms (  5.46% of update,   0.02% of elapsed)
+            all subtimers    10572 ms ( 94.54% of update,   0.40% of elapsed)
+
+
+State change per plugin
+-----------------------
+
+
+                framework    11183 ms (100.00% of update,   0.42% of elapsed)
+            all subtimers        0 ms (  0.00% of update,   0.00% of elapsed)
+
+
+Lua timer details
+-----------------
+
+                 control-panel/fix/engravings     3126 ms ( 38.80% of lua timers,   0.12% of elapsed)
+         control-panel/fix/noexert-exhaustion     1439 ms ( 17.86% of lua timers,   0.05% of elapsed)
+                  control-panel/fix/ownership     1124 ms ( 13.95% of lua timers,   0.04% of elapsed)
+         control-panel/fix/empty-wheelbarrows      458 ms (  5.68% of lua timers,   0.02% of elapsed)
+             control-panel/fix/general-strike      390 ms (  4.84% of lua timers,   0.01% of elapsed)
+              control-panel/fix/stuck-worship      377 ms (  4.68% of lua timers,   0.01% of elapsed)
+                control-panel/fix/stuck-squad      372 ms (  4.62% of lua timers,   0.01% of elapsed)
+          control-panel/fix/stuck-instruments      344 ms (  4.27% of lua timers,   0.01% of elapsed)
+                 control-panel/fix/dead-units       95 ms (  1.18% of lua timers,   0.00% of elapsed)
+                control-panel/fix/dry-buckets       63 ms (  0.78% of lua timers,   0.00% of elapsed)
+
+                                    framework      269 ms (  3.34% of lua timers,   0.01% of elapsed)
+                                all subtimers     7788 ms ( 96.66% of lua timers,   0.29% of elapsed)
+
+
+Overlay details
+---------------
+
+                       suspendmanager.overlay    27458 ms ( 20.28% of overlay,   1.04% of elapsed)
+                             gui/notify.panel    11042 ms (  8.15% of overlay,   0.42% of elapsed)
+                 gui/civ-alert.big_red_button     9869 ms (  7.29% of overlay,   0.37% of elapsed)
+                          gui/sitemap.toolbar     9425 ms (  6.96% of overlay,   0.36% of elapsed)
+                                 hotkeys.menu     5980 ms (  4.42% of overlay,   0.23% of elapsed)
+                         buildingplan.planner     4483 ms (  3.31% of overlay,   0.17% of elapsed)
+                              confirm.overlay     3217 ms (  2.38% of overlay,   0.12% of elapsed)
+                                 dig.warmdamp     3099 ms (  2.29% of overlay,   0.12% of elapsed)
+                              notes.map_notes     2866 ms (  2.12% of overlay,   0.11% of elapsed)
+                          sort.elevate_barony     1799 ms (  1.33% of overlay,   0.07% of elapsed)
+                       sort.location_selector     1044 ms (  0.77% of overlay,   0.04% of elapsed)
+                            caravan.movegoods      967 ms (  0.71% of overlay,   0.04% of elapsed)
+                                    sort.info      687 ms (  0.51% of overlay,   0.03% of elapsed)
+                                   sort.world      624 ms (  0.46% of overlay,   0.02% of elapsed)
+                                    sort.slab      482 ms (  0.36% of overlay,   0.02% of elapsed)
+                              sort.candidates      439 ms (  0.32% of overlay,   0.02% of elapsed)
+                                  sort.places      437 ms (  0.32% of overlay,   0.02% of elapsed)
+                        gui/design.dimensions      299 ms (  0.22% of overlay,   0.01% of elapsed)
+                       buildingplan.inspector      252 ms (  0.19% of overlay,   0.01% of elapsed)
+                        suspendmanager.status      206 ms (  0.15% of overlay,   0.01% of elapsed)
+                        suspendmanager.toggle      202 ms (  0.15% of overlay,   0.01% of elapsed)
+                         spectate.followpanel      188 ms (  0.14% of overlay,   0.01% of elapsed)
+                           stockpiles.overlay       79 ms (  0.06% of overlay,   0.00% of elapsed)
+                          zone.animal_actions       78 ms (  0.06% of overlay,   0.00% of elapsed)
+                        gui/design.rightclick       63 ms (  0.05% of overlay,   0.00% of elapsed)
+                     orders.skillrestrictions       32 ms (  0.02% of overlay,   0.00% of elapsed)
+                      gui/mass-remove.toolbar       31 ms (  0.02% of overlay,   0.00% of elapsed)
+                          zone.retirelocation       31 ms (  0.02% of overlay,   0.00% of elapsed)
+                          dig.warmdamptoolbar       31 ms (  0.02% of overlay,   0.00% of elapsed)
+
+                                    framework    50002 ms ( 36.93% of overlay,   1.89% of elapsed)
+                                all subtimers    85410 ms ( 63.07% of overlay,   3.23% of elapsed)
+
+
+ZScreen details
+---------------
+
+                                     launcher      297 ms (100.00% of zscreen,   0.01% of elapsed)
+
+                                    framework        0 ms (  0.00% of zscreen,   0.00% of elapsed)
+                                all subtimers      297 ms (100.00% of zscreen,   0.01% of elapsed)
