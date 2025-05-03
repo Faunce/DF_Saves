@@ -5463,6 +5463,17 @@
 		"s" : "//0/5/0/5|"
 	},
 	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
 		"k" : "buildingplan/quick-filters",
 		"s" : "[]"
 	},

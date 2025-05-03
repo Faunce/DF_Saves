@@ -3,41 +3,121 @@ Summary
 
 Measuring unpaused time only
 
-elapsed     2312 ms (0m 2s)
- dfhack      221 ms (  9.56% of elapsed)
+elapsed    19243 ms (0m 19s)
+ dfhack     1357 ms (  7.05% of elapsed)
 
 
 DFHack details
 --------------
 
 keybinding        0 ms (  0.00% of dfhack,   0.00% of elapsed)
-    update       16 ms (  7.24% of dfhack,   0.69% of elapsed)
-   overlay      205 ms ( 92.76% of dfhack,   8.87% of elapsed)
+    update      191 ms ( 14.08% of dfhack,   0.99% of elapsed)
+   overlay     1166 ms ( 85.92% of dfhack,   6.06% of elapsed)
    zscreen        0 ms (  0.00% of dfhack,   0.00% of elapsed)
 
 
 Update details
 --------------
 
-  event manager       16 ms (100.00% of update,   0.69% of elapsed)
-plugin onUpdate        0 ms (  0.00% of update,   0.00% of elapsed)
-     lua timers        0 ms (  0.00% of update,   0.00% of elapsed)
+  event manager      113 ms ( 59.16% of update,   0.59% of elapsed)
+plugin onUpdate       64 ms ( 33.51% of update,   0.33% of elapsed)
+     lua timers        1 ms (  0.52% of update,   0.01% of elapsed)
 
 
 Event manager per event type
 ----------------------------
 
-               UNIT_DEATH       16 ms (100.00% of event manager,   0.69% of elapsed)
+              JOB_STARTED       54 ms ( 47.79% of event manager,   0.28% of elapsed)
+            JOB_COMPLETED       42 ms ( 37.17% of event manager,   0.22% of elapsed)
+               UNIT_DEATH       14 ms ( 12.39% of event manager,   0.07% of elapsed)
+                   UNLOAD        1 ms (  0.88% of event manager,   0.01% of elapsed)
+            JOB_INITIATED        1 ms (  0.88% of event manager,   0.01% of elapsed)
+          UNIT_NEW_ACTIVE        1 ms (  0.88% of event manager,   0.01% of elapsed)
 
                 framework        0 ms (  0.00% of event manager,   0.00% of elapsed)
-            all subtimers       16 ms (100.00% of event manager,   0.69% of elapsed)
+            all subtimers      113 ms (100.00% of event manager,   0.59% of elapsed)
+
+
+Event manager JOB_INITIATED event per plugin
+--------------------------------------------
+
+
+                framework        1 ms (100.00% of event type,   0.01% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager JOB_COMPLETED event per plugin
+--------------------------------------------
+
+
+                framework       42 ms (100.00% of event type,   0.22% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Event manager JOB_STARTED event per plugin
+------------------------------------------
+
+
+                framework       54 ms (100.00% of event type,   0.28% of elapsed)
+            all subtimers        0 ms (  0.00% of event type,   0.00% of elapsed)
+
+
+Update per plugin
+-----------------
+
+                  overlay       34 ms ( 53.12% of update,   0.18% of elapsed)
+           preserve-tombs        3 ms (  4.69% of update,   0.02% of elapsed)
+             buildingplan        3 ms (  4.69% of update,   0.02% of elapsed)
+                  3dveins        2 ms (  3.12% of update,   0.01% of elapsed)
+                      dig        2 ms (  3.12% of update,   0.01% of elapsed)
+           preserve-rooms        2 ms (  3.12% of update,   0.01% of elapsed)
+                autolabor        2 ms (  3.12% of update,   0.01% of elapsed)
+                nestboxes        1 ms (  1.56% of update,   0.01% of elapsed)
+                 autochop        1 ms (  1.56% of update,   0.01% of elapsed)
+                   tailor        1 ms (  1.56% of update,   0.01% of elapsed)
+                 autoslab        1 ms (  1.56% of update,   0.01% of elapsed)
+                blueprint        1 ms (  1.56% of update,   0.01% of elapsed)
+                   reveal        1 ms (  1.56% of update,   0.01% of elapsed)
+           suspendmanager        1 ms (  1.56% of update,   0.01% of elapsed)
+                 spectate        1 ms (  1.56% of update,   0.01% of elapsed)
+              autobutcher        1 ms (  1.56% of update,   0.01% of elapsed)
+                    debug        1 ms (  1.56% of update,   0.01% of elapsed)
+
+                framework        6 ms (  9.38% of update,   0.03% of elapsed)
+            all subtimers       58 ms ( 90.62% of update,   0.30% of elapsed)
+
+
+State change per plugin
+-----------------------
+
+
+                framework       64 ms (100.00% of update,   0.33% of elapsed)
+            all subtimers        0 ms (  0.00% of update,   0.00% of elapsed)
+
+
+Lua timer details
+-----------------
+
+         control-panel/fix/noexert-exhaustion        1 ms (100.00% of lua timers,   0.01% of elapsed)
+
+                                    framework        0 ms (  0.00% of lua timers,   0.00% of elapsed)
+                                all subtimers        1 ms (100.00% of lua timers,   0.01% of elapsed)
 
 
 Overlay details
 ---------------
 
-                                 dig.warmdamp      126 ms ( 61.46% of overlay,   5.45% of elapsed)
-                 gui/civ-alert.big_red_button       16 ms (  7.80% of overlay,   0.69% of elapsed)
+                       suspendmanager.overlay      274 ms ( 23.50% of overlay,   1.42% of elapsed)
+                             gui/notify.panel      273 ms ( 23.41% of overlay,   1.42% of elapsed)
+                          gui/sitemap.toolbar       82 ms (  7.03% of overlay,   0.43% of elapsed)
+                                 hotkeys.menu       68 ms (  5.83% of overlay,   0.35% of elapsed)
+                 gui/civ-alert.big_red_button       34 ms (  2.92% of overlay,   0.18% of elapsed)
+                              notes.map_notes       24 ms (  2.06% of overlay,   0.12% of elapsed)
+                                    sort.info       19 ms (  1.63% of overlay,   0.10% of elapsed)
+                                  sort.places        3 ms (  0.26% of overlay,   0.02% of elapsed)
+                              sort.candidates        2 ms (  0.17% of overlay,   0.01% of elapsed)
+                                   sort.world        2 ms (  0.17% of overlay,   0.01% of elapsed)
+                          sort.elevate_barony        1 ms (  0.09% of overlay,   0.01% of elapsed)
 
-                                    framework       63 ms ( 30.73% of overlay,   2.72% of elapsed)
-                                all subtimers      142 ms ( 69.27% of overlay,   6.14% of elapsed)
+                                    framework      384 ms ( 32.93% of overlay,   2.00% of elapsed)
+                                all subtimers      782 ms ( 67.07% of overlay,   4.06% of elapsed)
