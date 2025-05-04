@@ -108,20 +108,191 @@
 	{
 		"i" : 
 		[
-			35,
+			50,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "54|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			36,
+			51,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "54|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			52,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			53,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			54,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			61,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			62,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			63,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			64,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			65,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			66,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			78,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			79,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			80,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			81,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			82,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			83,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			84,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			85,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			86,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			87,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
 	},
 	{
 		"i" : 
@@ -257,6 +428,61 @@
 		"s" : "//0/5/0/5|"
 	},
 	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			2,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			8,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			6,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
 		"k" : "buildingplan/quick-filters",
 		"s" : "[]"
 	},
@@ -352,7 +578,8 @@
 		"k" : "preserve-rooms/config/noble"
 	},
 	{
-		"k" : "preserve-rooms/config/office"
+		"k" : "preserve-rooms/config/office",
+		"s" : "41/19949/-1"
 	},
 	{
 		"k" : "preserve-rooms/config/pending"
