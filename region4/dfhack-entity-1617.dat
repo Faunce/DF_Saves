@@ -15,6 +15,66 @@
 	{
 		"i" : 
 		[
+			187,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/ALPACA"
+	},
+	{
+		"i" : 
+		[
+			179,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/BIRD_CHICKEN"
+	},
+	{
+		"i" : 
+		[
+			181,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/BIRD_DUCK"
+	},
+	{
+		"i" : 
+		[
+			184,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/BIRD_GOOSE"
+	},
+	{
+		"i" : 
+		[
+			189,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/BIRD_PEAFOWL_BLUE"
+	},
+	{
+		"i" : 
+		[
 			171,
 			1,
 			4,
@@ -23,6 +83,18 @@
 			2
 		],
 		"k" : "autobutcher/watchlist/CAT"
+	},
+	{
+		"i" : 
+		[
+			180,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/CAVY"
 	},
 	{
 		"i" : 
@@ -47,6 +119,78 @@
 			2
 		],
 		"k" : "autobutcher/watchlist/DOG"
+	},
+	{
+		"i" : 
+		[
+			174,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/HORSE"
+	},
+	{
+		"i" : 
+		[
+			172,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/MULE"
+	},
+	{
+		"i" : 
+		[
+			177,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/PIG"
+	},
+	{
+		"i" : 
+		[
+			191,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/RABBIT"
+	},
+	{
+		"i" : 
+		[
+			183,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/REINDEER"
+	},
+	{
+		"i" : 
+		[
+			182,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/watchlist/WATER_BUFFALO"
 	},
 	{
 		"i" : 
@@ -101,14 +245,95 @@
 	{
 		"i" : 
 		[
-			0
+			1
 		],
 		"k" : "autoslab/config"
 	},
 	{
 		"i" : 
 		[
-			50,
+			464,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			465,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			466,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			467,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			468,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			469,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			470,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			471,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			472,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "56|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			483,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -117,7 +342,7 @@
 	{
 		"i" : 
 		[
-			51,
+			484,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -126,7 +351,7 @@
 	{
 		"i" : 
 		[
-			52,
+			485,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -135,7 +360,7 @@
 	{
 		"i" : 
 		[
-			53,
+			486,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -144,7 +369,7 @@
 	{
 		"i" : 
 		[
-			54,
+			487,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -153,115 +378,106 @@
 	{
 		"i" : 
 		[
-			61,
+			488,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			62,
+			489,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			63,
+			490,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			64,
+			491,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			65,
+			492,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			66,
+			493,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			78,
+			494,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			79,
+			495,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			80,
+			496,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			81,
+			497,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			82,
+			498,
 			0
 		],
 		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
+		"s" : "58|//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			83,
-			0
-		],
-		"k" : "buildingplan/building",
-		"s" : "40|//0/5/0/5|"
-	},
-	{
-		"i" : 
-		[
-			84,
+			506,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -270,7 +486,7 @@
 	{
 		"i" : 
 		[
-			85,
+			507,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -279,7 +495,7 @@
 	{
 		"i" : 
 		[
-			86,
+			508,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -288,7 +504,1348 @@
 	{
 		"i" : 
 		[
-			87,
+			510,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			511,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			512,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			513,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			553,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			554,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			555,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			556,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			557,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			558,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			559,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			560,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			561,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			562,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			563,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			564,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			565,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			566,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			567,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			568,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			569,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			570,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			571,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			572,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			573,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			574,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			575,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			576,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			577,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			578,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			579,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			580,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			581,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			582,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			583,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			584,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			585,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			586,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			587,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			588,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			589,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			590,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			591,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			592,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			593,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			594,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			595,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			596,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			597,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			598,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			599,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			600,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			611,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			612,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			613,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			614,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			615,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			616,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			617,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			618,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			619,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			620,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			621,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			622,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			623,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			624,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			625,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			626,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			627,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			628,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			629,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			630,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			631,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			632,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			633,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			634,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			635,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			636,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			637,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			638,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			639,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			640,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			641,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			642,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			643,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			644,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			645,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			646,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			647,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			648,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "54|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			649,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			650,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			651,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			652,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			653,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			654,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			655,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			656,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			657,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			658,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			659,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			660,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			661,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			662,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			663,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			664,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			665,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			666,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			667,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			668,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			669,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			670,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			671,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			672,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			673,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			674,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			675,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			676,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			677,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			678,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			679,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			680,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			681,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			682,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			683,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			684,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			741,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			742,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			744,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			745,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			746,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "58|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			747,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "55|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			750,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			751,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			760,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "57|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			761,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "57|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			762,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "57|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			763,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "57|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			769,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			770,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			771,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			772,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			773,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			774,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			775,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "1|//0/5/0/5|engraved"
+	},
+	{
+		"i" : 
+		[
+			776,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			777,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			778,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			779,
+			0
+		],
+		"k" : "buildingplan/building",
+		"s" : "40|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			780,
 			0
 		],
 		"k" : "buildingplan/building",
@@ -483,6 +2040,215 @@
 		"s" : "//0/0/0/0|"
 	},
 	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			15,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			5,
+			0,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			5,
+			1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			5,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5;//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			4,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			8,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			19,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "stone/INORGANIC:MICROCLINE/0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			10,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			45,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			34,
+			1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			51,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			53,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			54,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			14,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			14,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			3,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			46,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|engraved"
+	},
+	{
 		"k" : "buildingplan/quick-filters",
 		"s" : "[]"
 	},
@@ -569,7 +2335,8 @@
 		"k" : "preserve-rooms/config"
 	},
 	{
-		"k" : "preserve-rooms/config/bedroom"
+		"k" : "preserve-rooms/config/bedroom",
+		"s" : "421/10924/-1,422/19949/-1,423/13442/-1,424/13668/-1,425/13443/-1,426/12640/-1,427/11487/-1,428/19954/-1,429/19951/-1,430/13441/-1,431/19950/-1,432/11903/-1,433/13176/-1,434/12226/-1,435/19952/-1,436/13982/-1,437/12823/-1,438/12828/-1,439/14369/14368,440/13984/-1,441/13663/13185,442/13175/-1,443/14372/-1,444/19953/-1,713/11230/-1,714/14240/13976,721/7455/-1,722/3954/-1,727/12221/-1,728/19948/-1,729/11914/-1,730/7808/-1,733/13666/-1,736/14241/-1,737/13978/-1,738/12821/-1,740/12829/-1"
 	},
 	{
 		"k" : "preserve-rooms/config/dining"
@@ -579,7 +2346,7 @@
 	},
 	{
 		"k" : "preserve-rooms/config/office",
-		"s" : "41/19949/-1"
+		"s" : "41/10367/-1,116/7455/-1,139/12828/-1,203/11905/-1"
 	},
 	{
 		"k" : "preserve-rooms/config/pending"
@@ -588,7 +2355,8 @@
 		"k" : "preserve-rooms/config/reserved"
 	},
 	{
-		"k" : "preserve-rooms/config/tomb"
+		"k" : "preserve-rooms/config/tomb",
+		"s" : "767/13659/-1,768/19949/-1"
 	},
 	{
 		"i" : 
